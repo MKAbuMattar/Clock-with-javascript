@@ -1,0 +1,16 @@
+body{
+    font-family: "Georgia", Times, serif;
+    background-color: #0f2d5d;
+}
+.clock{
+    color: white;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 30px;
+    text-align: center
+}
+li a i{
+    color: white
+}
